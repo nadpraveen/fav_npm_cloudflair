@@ -1,0 +1,8 @@
+name = "sparkling-sunset-c73d"
+main = "src/index.js"
+compatibility_date = "2023-01-24"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
